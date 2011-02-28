@@ -1,6 +1,9 @@
 common/build/*
 common/bin/*
+common/dist/*
 client/build/*
 client/bin/*
+client/dist/*
 server/build/*
 server/bin/*
+server/dist/*
